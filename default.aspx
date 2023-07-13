@@ -71,6 +71,7 @@
     </style>
 </head>
 <body>
+<!-- Web Interna para tfg.local -->
     <div class="container">
         <h1>Monitorizar</h1>
         <form id="cmd" method="GET" runat="server">
