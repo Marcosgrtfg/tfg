@@ -79,7 +79,7 @@
                 <input type="text" id="ipAddress" name="ipAddress" placeholder="Introduce la dirección IP">
             </div>
             <div class="form-group">
-                <input type="submit" value="Hacer Ping">
+                <input type="submit" value="Hacer ping">
             </div>
         </form>
         <div class="output">
